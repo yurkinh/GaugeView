@@ -1,4 +1,7 @@
 # GaugeView
-A C# port of CodeAndMagic GaugeView https://github.com/CodeAndMagic/GaugeView with fixes for Android Lollipop
+A Xamarin C# port of CodeAndMagic GaugeView https://github.com/CodeAndMagic/GaugeView for Android
+<p>
+With  fixes for Android Lollipop
+<p>
 ![GaugeView](Animation.gif)
 
