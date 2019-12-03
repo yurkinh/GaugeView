@@ -3,5 +3,6 @@ A Xamarin C# port of CodeAndMagic GaugeView https://github.com/CodeAndMagic/Gaug
 <p>
 With  fixes for Android Lollipop
 <p> 
-![GaugeView](Animation.gif)
+
+![gauge_view](Screenshots/Animation.gif)
 
